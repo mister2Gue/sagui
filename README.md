@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **senfreeSoftware**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **flutter and react js**
 
 - 👯 I’m looking to collaborate on [senegalX](https://github.com/senegalx)
 
