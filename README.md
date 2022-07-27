@@ -1,6 +1,6 @@
 
 <img 
-  src="https://media-exp1.licdn.com/dms/image/C4E16AQGrRKXoV3HdXw/profile-displaybackgroundimage-shrink_350_1400/0/1645546875907?e=1664409600&v=beta&t=y0zifh1BXrk3vsWhnC6WjWftWjqQik1qLRUv10_2w2w" alt="👋" style="width=100%; height=100%"/>
+  src="https://media-exp1.licdn.com/dms/image/C4D16AQGrNPUSJzySeg/profile-displaybackgroundimage-shrink_350_1400/0/1658936177941?e=1664409600&v=beta&t=Rc7H-OxTbAPqczabunokqY7nGyhl9Y10CTs4Sho2HTc" alt="👋" />
 
 <h1 align="center">Hi 👋, I'm Lib'scode!</h1>
 <h3 align="center">développer full stack.</h3>
