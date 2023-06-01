@@ -6,10 +6,10 @@
 <h3 align="center">développer full stack.</h3>
 
 
-- 🔭 I’m currently working on **AfridevGroup**
-- 🔭 I'am the co-founder of weekode
+- 🔭 I’m  **freeleance developper**
+- 🔭 I'am the founder of wommate
 
-- 🌱 I’m currently learning **Python && SQLAlchemy**
+- 🌱 I’m currently learning **webrtc**
 
 - 👯 I’m looking to collaborate on [senegalX](https://github.com/senegalx) && SenfreeSoftware
 
