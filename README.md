@@ -1,6 +1,6 @@
 
 <img 
-  src="../img/libs.png" alt="👋" />
+  src="../images/libs.png" alt="👋" />
 
 <h1 align="center">Hi 👋, I'm Lib'scode!</h1>
 <h3 align="center">développer full stack.</h3>
