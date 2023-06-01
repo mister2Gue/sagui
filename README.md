@@ -1,6 +1,6 @@
 
 <img 
-  src="https://media-exp1.licdn.com/dms/image/C4D16AQGrNPUSJzySeg/profile-displaybackgroundimage-shrink_350_1400/0/1658936177941?e=1664409600&v=beta&t=Rc7H-OxTbAPqczabunokqY7nGyhl9Y10CTs4Sho2HTc" alt="👋" />
+  src="../img/libs.png" alt="👋" />
 
 <h1 align="center">Hi 👋, I'm Lib'scode!</h1>
 <h3 align="center">développer full stack.</h3>
