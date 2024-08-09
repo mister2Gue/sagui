@@ -7,15 +7,13 @@
 
 
 - 🔭 I’m  **freeleance developper**
-- 🔭 I'am the founder of wommate
+- 🔭 I'am the founder of WeCan
 
-- 🌱 I’m currently learning **webrtc**
+- 🌱 I’m currently learning **javaScript**
 
-- 👯 I’m looking to collaborate on [senegalX](https://github.com/senegalx) && SenfreeSoftware
+- 💬 Ask me about ** web and design**
 
-- 💬 Ask me about **php, js, html, Angular, Laravel**
-
-- 📫 How to reach me **lmtlibasse@gmail.com**
+- 📫 How to reach me **saguigueye19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
